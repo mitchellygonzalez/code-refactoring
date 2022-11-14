@@ -14,11 +14,17 @@
 * [Questions](#questions)
  
 ## Description
-Code refactoring is...
+Code refactoring is a common task for front-end and junior developers. This relates to taking functional 
+existing code and making it better by removing anything that may seem redundant. It also includes making it 
+clearer for others to to read, such as choosing a dynamic that divides code into different sections, or groups
+together any excessive code. This makes an application more accessible, and that is what this project is 
+geared towards. 
+
 
 
 ## Screenshot
-Add screenshot here
+<img width="500" alt="Screen Shot 2022-11-13 at 7 21 30 PM" src="https://user-images.githubusercontent.com/107009737/201552542-f2b9d7cb-e841-41aa-b49b-c8c9aff3da97.png">
+
 
 ## User Story
     AS A marketing agency
@@ -43,8 +49,8 @@ Add screenshot here
 2. In your program of preference, clone this code onto a local repository
 
 ## Usage
-1. 
-2. 
+-  Nagivate through the site by clicking on any navigation links in the header
+
 
 ## Contributors
 To contribute, you may clone this repo, and create a new branch to add your code. 
